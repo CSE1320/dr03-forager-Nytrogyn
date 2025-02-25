@@ -2,9 +2,9 @@
 ####################### Makefile Template ##############################
 ########################################################################
 # Student settings
-NAME = YOURNAME
-SID = YOURSID
-EMAIL = YOURUTAEMAIL
+NAME = Jeff Wright
+SID = 1002198048
+EMAIL = jmw8048@mavs.uta.edu
 SEMESTER = SPRING2025
 PROJECT=PROJ03
  
